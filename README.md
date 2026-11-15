@@ -35,7 +35,7 @@ Interesado en continuar desarrollando competencias técnicas y profesionales que
 
 ---
 
-## 🧠 Conocimientos – Saber
+## 🧠 Conocimientos
 
 - Fundamentos de ingeniería de software.
 - Lógica de programación y algoritmos.
@@ -49,7 +49,7 @@ Interesado en continuar desarrollando competencias técnicas y profesionales que
 
 ---
 
-## ⚙️ Habilidades – Saber hacer
+## ⚙️ Habilidades
 
 - Desarrollo de aplicaciones y páginas web.
 - Programación y resolución de problemas computacionales.
@@ -63,7 +63,7 @@ Interesado en continuar desarrollando competencias técnicas y profesionales que
 
 ---
 
-## 🤝 Actitudes – Saber ser
+## 🤝 Actitudes
 
 - Responsabilidad y compromiso.
 - Pensamiento crítico y analítico.
